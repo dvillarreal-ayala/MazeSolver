@@ -7,6 +7,7 @@
 public class MazeCell {
     private boolean explored;
     private boolean isWall;
+    //Parent is the MazeCell that came directly before this MazeCell.
     private MazeCell parent;
     private int row;
     private int col;

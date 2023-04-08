@@ -3,7 +3,7 @@
  * @author: Nandhini Namasivayam
  * @version: 03/04/2022
  */
-
+//Damian Villarreal-Ayala, Menlo School CS2
 import java.util.ArrayList;
 
 public class MazeTester {
